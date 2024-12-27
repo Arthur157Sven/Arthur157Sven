@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arthur157Sven a student ant enthusiast
+- 👋 Hi, I’m @ArthurMatiasC a student ant enthusiast
 - 👀 I’m interested in programming and data security
 - 🌱 I’m currently learning C and java 
 - 💞️ I’m looking to collaborate on my own projects
